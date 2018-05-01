@@ -1,2 +1,2 @@
 # building-kit
-Java 10 building kit application
+building-kit is java 10/gradle project

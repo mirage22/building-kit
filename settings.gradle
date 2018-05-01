@@ -1,0 +1,5 @@
+rootProject.name = "building-kit"
+
+include 'application'
+include 'simulation'
+
